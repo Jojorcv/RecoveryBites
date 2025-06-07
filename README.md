@@ -31,27 +31,6 @@ This isn’t about perfection or performance. It’s about progress, connection,
 - 🔄 **No calorie counting or rigid food rules** — just real food, real support  
 - 🧺 **Budget-friendly and accessible ingredients** for everyday life
 
----
-
-## 🚀 Getting Started (Local Setup)
-
-1. Install [Node.js](https://nodejs.org) and [Git](https://git-scm.com)
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/recoverybites.git
-   cd recoverybites
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
 
 ## ⚠️ Disclaimer
 
