@@ -33,11 +33,14 @@ This isn’t about perfection or performance. It’s about progress, connection,
 
 ## 🛠️ Features
 
-- Thoughtful, simple meal ideas rooted in whole foods  
-- Nutrition tips that support emotional balance and energy  
-- Mindful check-ins to reconnect with body and hunger cues  
-- Practical tools to make cooking and shopping less stressful  
-- A gentle interface designed for clarity and calm
+- 🍽️ **Meal tracking** that supports awareness without obsession  
+- 🧠 **Nutrient tracking** focused on mood, clarity, and craving reduction  
+- 🥦 **Functional food recommendations** to support mental and emotional recovery  
+- 🍵 **Functional drinks** (like teas, broths, and tonics) that nourish and regulate  
+- 🍲 **Whole-food meal ideas** that are quick, grounding, and budget-friendly  
+- 🗓️ **Gentle meal planning tools** to ease decision fatigue  
+- 💬 **Body-awareness prompts** to help you reconnect and self-regulate  
+- 🔄 **No calorie counting or rigid food rules** — just real food, real support
 
 ---
 
