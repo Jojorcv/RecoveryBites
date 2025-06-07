@@ -1,4 +1,4 @@
-# 🍽️ RecoveryBites — A Mindful Eating Companion
+ 🍽️ RecoveryBites — A Mindful Eating Companion
 
 RecoveryBites is a gentle, user-centered app designed to help individuals build a better relationship with food, reconnect with their bodies, and support emotional well-being through intentional nourishment.
 
@@ -19,6 +19,40 @@ This isn’t about perfection or performance. It’s about progress, connection,
 
 ---
 
+## 🛠️ Features
+
+- 🍽️ **Meal tracking** that supports awareness without obsession  
+- 🧠 **Nutrient tracking** focused on mood, clarity, and craving reduction  
+- 🥦 **Functional food recommendations** to support mental and emotional recovery  
+- 🍵 **Functional drinks** (like teas, broths, and tonics) that nourish and regulate  
+- 🧾 **Organized by symptoms** like anxiety, cravings, insomnia, and fatigue  
+- 🗓️ **Gentle meal planning tools** to ease decision fatigue  
+- 💬 **Body-awareness prompts** to help you reconnect and self-regulate  
+- 🔄 **No calorie counting or rigid food rules** — just real food, real support  
+- 🧺 **Budget-friendly and accessible ingredients** for everyday life
+
+---
+
+## 🚀 Getting Started (Local Setup)
+
+1. Install [Node.js](https://nodejs.org) and [Git](https://git-scm.com)
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/recoverybites.git
+   cd recoverybites
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
 ## ⚠️ Disclaimer
 
 - This app is **not a substitute** for professional mental or physical health care. It is intended to be used **alongside** therapy, counseling, medical treatment, or other forms of professional support.
@@ -31,31 +65,19 @@ This isn’t about perfection or performance. It’s about progress, connection,
 
 ---
 
-## 🛠️ Features
-
-- 🍽️ **Meal tracking** that supports awareness without obsession  
-- 🧠 **Nutrient tracking** focused on mood, clarity, and craving reduction  
-- 🥦 **Functional food recommendations** to support mental and emotional recovery  
-- 🍵 **Functional drinks** (like teas, broths, and tonics) that nourish and regulate  
-- 🍲 **Whole-food meal ideas** that are quick, grounding, and budget-friendly  
-- 🗓️ **Gentle meal planning tools** to ease decision fatigue  
-- 💬 **Body-awareness prompts** to help you reconnect and self-regulate  
-- 🔄 **No calorie counting or rigid food rules** — just real food, real support
-
----
-
-## 🚀 Getting Started
-
-*Coming Soon – Instructions on how to install or access the app.*
-
----
-
 ## 🤝 Contributing
 
-This is a personal project in early development, but contributions, suggestions, or shared experiences are welcome. If you'd like to help, feel free to open an issue or submit a pull request.
+At this time, the codebase is not open source and is not licensed for reuse.
+
+However, suggestions, ideas, and feedback are welcome.  
+Please feel free to open an issue to share thoughts or improvements.
+
+Pull requests will only be considered with prior permission.
 
 ---
 
-## 📜 License
+## © Copyright
 
-MIT License (or another — update this as needed.)
+© 2025 Joseph Perez. All rights reserved.  
+This project is not licensed for reuse or redistribution.#
+
